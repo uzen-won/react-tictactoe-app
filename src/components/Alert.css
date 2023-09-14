@@ -1,0 +1,5 @@
+.alert { padding: 0.75 1.25; color: var(--mainWhite); text-align: center; margin: 2rem auto 0 auto; border-radius: 2px; } 
+/* .alert-danger { background-color: var(--mainRed); } 
+.alert-success { background-color: var(--mainGreen); } */
+.alert-danger { background-color:#c45151; } 
+.alert-success { background-color: #45af50; } 
